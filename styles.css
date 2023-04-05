@@ -23,7 +23,7 @@ header{
     animation: transitionIn 0.75s;
     width:100%;
     height:100vh;
-    background: linear-gradient(rgb(0,0,0,0.9),rgb(0,0,0,0.9)),url('images/banner1.jpg');
+    background: linear-gradient(rgb(0,0,0,0.9),rgb(0,0,0,0.9)),url('banner1.jpg');
     background-size:cover;
     color:white;
 
